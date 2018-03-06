@@ -1,6 +1,6 @@
 在CustomDrawCell事件里做处理：
 
-```cshap
+```csharp
 
 private void gridView1_CustomDrawCell(object sender, DevExpress.XtraGrid.Views.Base.RowCellCustomDrawEventArgs e)
 {
