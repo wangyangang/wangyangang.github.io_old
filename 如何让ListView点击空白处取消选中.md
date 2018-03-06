@@ -31,4 +31,5 @@ selectedAttachments.Clear();
 参见：
 
 <a href="http://blog.csdn.net/shiwei0124/article/details/5291157">C# listview之点击空白区仍然不失去选中项的状态</a>
+
 <a href="http://raocuncun.blog.163.com/blog/static/161666790201110411187828/">解决listview控件点击空白区仍然不失去选中项的状态 </a>
