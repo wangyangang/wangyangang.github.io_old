@@ -3,7 +3,7 @@
 ```
 private void A()
 {
-int i=0;
+  int i=0;
 }
 ```
-解决方案参见：WinForm DataGrid 的DataGridTableStyle用法
+解决方案参见：跳到自己博客列表：<a href="http://write.blog.csdn.net/postlist" target="_blank">http://write.blog.csdn.net/postlist</a>
